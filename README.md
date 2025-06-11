@@ -1,1 +1,1 @@
-# my-maven-project
+# My Maven Project
